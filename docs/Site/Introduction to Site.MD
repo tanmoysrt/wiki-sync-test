@@ -13,6 +13,8 @@ published: 1
 A **Site** in Frappe Cloud is a self-contained workspace where your ERPNext or Frappe applications run.  
 It is the main unit that contains your data, configurations, apps, and files.
 
+Test changes
+
 ---
 
 ### What a Site Includes
