@@ -16,7 +16,7 @@ A Site on Frappe Cloud consumes CPU, memory, storage, and network resources. As 
 
 Plans also define support level, automation features, security enhancements, and scheduled backups. A development site might only need basic resources, but a production ERP requires high uptime, dedicated workers, frequent backups, and scaling support. Plans ensure you pay only for what you actually need.
 
----
+Just a tiny update.
 
 ## What a Plan Usually Includes
 
