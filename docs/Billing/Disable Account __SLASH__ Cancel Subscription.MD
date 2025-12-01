@@ -9,7 +9,7 @@ If you no longer want to use Frappe Cloud services and you want to disable your 
 1. Login to your dashboard
 2. Drop all the sites and servers
 3. Click on Settings in the top bar
-4. Under Team Actions section, click on the Disable button against Disable Account![Screenshot from 2023-12-04 19-41-08](/files/Screenshot from 2023-12-04 19-41-08.png "Screenshot from 2023-12-04 19-41-08.png")
+4. Under Team Actions section, click on the Disable button against Disable Account![Screenshot from 2023-12-04 19-41-08](../files/Screenshot from 2023-12-04 19-41-08.png "Screenshot from 2023-12-04 19-41-08.png")
 5. After you confirm, your account will get disabled
 
 

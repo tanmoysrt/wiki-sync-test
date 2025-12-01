@@ -30,7 +30,7 @@ Step 2: Install MariaDB ODBC connector
 ![256](../files/256.png "256.png")
 2. Install ODBC Connector.
 
-![ss2 1](/files/ss2 1.png "ss2 1.png")  
+![ss2 1](../files/ss2 1.png "ss2 1.png")  
 
 
 ![ss3](../files/ss3.png "ss3.png")  

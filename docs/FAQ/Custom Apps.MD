@@ -26,7 +26,7 @@ You can then retry fetching the latest update:
 
 If you're getting the error even after adding and removing the app on Frappe Cloud, please visit <https://github.com/settings/installations/> and then click the configure button next to the **Frappe Cloud** Github App.
 
-![Configure Frappe Cloud Github](/files/Screenshot 2023-04-04 at 23-03-52 Build software better together.png)  
+![Configure Frappe Cloud Github](../files/Screenshot 2023-04-04 at 23-03-52 Build software better together.png)  
 
 
 It should take you to another page with a URL like `https://github.com/settings/installations/<unique_number>`. Copy this number (or the URL as a whole)
