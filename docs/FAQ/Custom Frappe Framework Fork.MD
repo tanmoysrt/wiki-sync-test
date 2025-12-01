@@ -19,7 +19,7 @@ You can use your custom version/fork of the vanilla Frappe Framework.
 
 You can do so by simply following the add app flow inside your Bench Groups.
 
-![Screenshot 2024-11-20 112324](../files/Screenshot 2024-11-20 112324.png "Screenshot 2024-11-20 112324.png")  
+![Screenshot 2024-11-20 112324](/files/Screenshot 2024-11-20 112324.png "Screenshot 2024-11-20 112324.png")  
 
 
 This will replace the Vanilla Frappe Framework with your custom fork / version.

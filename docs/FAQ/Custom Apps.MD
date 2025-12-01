@@ -6,7 +6,7 @@ published: 1
 
 ### Why does it show "Attention Required" next to my custom app?
 
-![Attention Required badge](/files/Screenshot 2022-08-16 at 12.36.46 PM.png)  
+![Attention Required badge](../files/Screenshot 2022-08-16 at 12.36.46 PM.png)  
 
 
 This means that we are **not able to fetch the latest updates from the associated GitHub repository** for the app. This happens most probably because the Frappe Cloud GitHub app does not have the permission to access the repository. Please make sure Frappe Cloud app has proper permissions from GitHub settings:

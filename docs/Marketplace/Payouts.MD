@@ -11,12 +11,12 @@ Setup Payout Preferences
 
 If you want to publish a paid app, please visit the **Publisher Profile** page and edit your payout preferences:
 
-![Payout Preferences](/files/CleanShot 2022-11-02 at 12.56.57@2x.png)  
+![Payout Preferences](../files/CleanShot 2022-11-02 at 12.56.57@2x.png)  
 
 
 You can select from one of the following payout methods:
 
-![Payout Methods](/files/CleanShot 2022-11-02 at 12.58.32@2x.png)  
+![Payout Methods](../files/CleanShot 2022-11-02 at 12.58.32@2x.png)  
 
 
 
@@ -29,7 +29,7 @@ Payout Orders
 
 You can visit the **Payouts** page from your Developer dashboard to see the history of payouts with an option to view more details. A payout is in draft mode until the payment is processed from our side:
 
-![Developer Payouts Page](/files/CleanShot 2022-11-02 at 13.03.56@2x.png)  
+![Developer Payouts Page](../files/CleanShot 2022-11-02 at 13.03.56@2x.png)  
 
 
 Payout Terms
