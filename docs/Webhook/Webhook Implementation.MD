@@ -81,14 +81,14 @@ Setup Guide
 
 4. Next, click on the `Activate` button of webhook record.
 
-![Screenshot 2024-09-25 at 4.29.43 PM](/files/Screenshot 2024-09-25 at 4.29.43 PM.png "Screenshot 2024-09-25 at 4.29.43 PM.png")
+![Screenshot 2024-09-25 at 4.29.43 PM](../files/Screenshot 2024-09-25 at 4.29.43 PM.png "Screenshot 2024-09-25 at 4.29.43 PM.png")
 5. Click on `Validate Webhook`
 6. If everything looks good, you can activate the webhook from there
 
   
 
 
-![Screenshot 2024-09-25 at 4.32.06 PM](/files/Screenshot 2024-09-25 at 4.32.06 PM.png "Screenshot 2024-09-25 at 4.32.06 PM.png")  
+![Screenshot 2024-09-25 at 4.32.06 PM](../files/Screenshot 2024-09-25 at 4.32.06 PM.png "Screenshot 2024-09-25 at 4.32.06 PM.png")  
 
 
   
