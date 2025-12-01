@@ -19,7 +19,7 @@ Typically, it takes a few seconds to configure the database user. Once it's comp
   
 
 
-![Screenshot 2025-01-31 at 1.15.44 PM](/files/Screenshot 2025-01-31 at 1.15.44 PM.png "Screenshot 2025-01-31 at 1.15.44 PM.png")
+![Screenshot 2025-01-31 at 1.15.44 PM](../files/Screenshot 2025-01-31 at 1.15.44 PM.png "Screenshot 2025-01-31 at 1.15.44 PM.png")
 2. Open your Metabase dashboard and click on **Add database**.
 3. Choose **MySQL** as Database Type and fill all the database user related information.  
   
@@ -32,12 +32,12 @@ Typically, it takes a few seconds to configure the database user. Once it's comp
 
 For **Server SSL certificate Chain**, check the **Step 1** and download the certificate first. Next, open your operating system's default text editor and copy- paste to metabase. 
 
-![Screenshot 2025-01-31 at 2.14.10 PM](/files/Screenshot 2025-01-31 at 2.14.10 PM.png "Screenshot 2025-01-31 at 2.14.10 PM.png")
+![Screenshot 2025-01-31 at 2.14.10 PM](../files/Screenshot 2025-01-31 at 2.14.10 PM.png "Screenshot 2025-01-31 at 2.14.10 PM.png")
 4. Once all the details filled, click on **Save**.
 5. If everything works fine, you will see your database in the list.
 
-![Screenshot 2025-01-31 at 2.19.23 PM](/files/Screenshot 2025-01-31 at 2.19.23 PM.png "Screenshot 2025-01-31 at 2.19.23 PM.png")
+![Screenshot 2025-01-31 at 2.19.23 PM](../files/Screenshot 2025-01-31 at 2.19.23 PM.png "Screenshot 2025-01-31 at 2.19.23 PM.png")
 6. Wait a few minutes for the table schema to sync, then you can view the metadata.
 
-![Screenshot 2025-01-31 at 2.26.22 PM](/files/Screenshot 2025-01-31 at 2.26.22 PM.png "Screenshot 2025-01-31 at 2.26.22 PM.png")
+![Screenshot 2025-01-31 at 2.26.22 PM](../files/Screenshot 2025-01-31 at 2.26.22 PM.png "Screenshot 2025-01-31 at 2.26.22 PM.png")
 7. Once this step is complete, you can follow the [official documentation](https://www.metabase.com/docs/latest/) to create the dashboard and reports.

@@ -133,7 +133,7 @@ You can run this command even from your local setup. If your site is hosted on a
 The bench command provides a form similar to the dashboard UI. It's probably the easiest way to migrate your site to Frappe Cloud.  
   
 It is prompt-based and even allows you to pass external backup files, this way there is no need to restore a site from backup, just to migrate it again somewhere else.  
-![Screenshot 2024-07-29 at 2.19.03 PM](/files/Screenshot 2024-07-29 at 2.19.03 PM.png "Screenshot 2024-07-29 at 2.19.03 PM.png")  
+![Screenshot 2024-07-29 at 2.19.03 PM](../files/Screenshot 2024-07-29 at 2.19.03 PM.png "Screenshot 2024-07-29 at 2.19.03 PM.png")  
 
 
 

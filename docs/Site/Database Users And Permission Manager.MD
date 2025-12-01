@@ -73,7 +73,7 @@ View Database Credential
 
 Click on the three dots in the row and select **View Credential** to view the details for that specific user’s credentials.
 
-![Screenshot 2024-12-03 at 12.18.52 PM](/files/Screenshot 2024-12-03 at 12.18.52 PM.png "Screenshot 2024-12-03 at 12.18.52 PM.png")  
+![Screenshot 2024-12-03 at 12.18.52 PM](../files/Screenshot 2024-12-03 at 12.18.52 PM.png "Screenshot 2024-12-03 at 12.18.52 PM.png")  
 
 
 After selecting **View Credential**, a modal will appear displaying all the necessary information to connect to your site database.
@@ -86,7 +86,7 @@ Delete Database User
 
 Click on the three dots in the row and select **Delete User** to remove the database user.
 
-![Screenshot 2024-12-03 at 12.16.58 PM](/files/Screenshot 2024-12-03 at 12.16.58 PM.png "Screenshot 2024-12-03 at 12.16.58 PM.png")  
+![Screenshot 2024-12-03 at 12.16.58 PM](../files/Screenshot 2024-12-03 at 12.16.58 PM.png "Screenshot 2024-12-03 at 12.16.58 PM.png")  
 
 
 When you click to delete a user, a confirmation modal will appear. Once you confirm the deletion, the selected database user will be deleted.

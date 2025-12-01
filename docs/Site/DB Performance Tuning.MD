@@ -14,7 +14,7 @@ For more context refer:
 
 ### Add Database Index
 
-1. Click on the row containing the query you would like to analyze and the Normalized Slow Query dialog should open.![Screenshot 2024-07-31 at 2.27.35 PM](/files/Screenshot 2024-07-31 at 2.27.35 PM.png "Screenshot 2024-07-31 at 2.27.35 PM.png")
+1. Click on the row containing the query you would like to analyze and the Normalized Slow Query dialog should open.![Screenshot 2024-07-31 at 2.27.35 PM](../files/Screenshot 2024-07-31 at 2.27.35 PM.png "Screenshot 2024-07-31 at 2.27.35 PM.png")
 2. Click on the Analyze Query button and a toast should appear stating that the Analyze query has started in the background.![](../files/9NWWN9T.png)
 3. The above process might take time, anywhere between (10s to 5m) depending on how big the query is and how big the actual tables in the database are.
 

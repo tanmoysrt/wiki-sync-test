@@ -6,7 +6,7 @@ published: 1
 
 Frappe Cloud Webhooks help deliver events related to various resources directly to your backend service.
 
-![webhook-slide](/files/webhook-slide.png "webhook-slide.png")  
+![webhook-slide](../files/webhook-slide.png "webhook-slide.png")  
 
 
 This makes it easier to build tools and custom SaaS workflows on top of Frappe Cloud using the Frappe Cloud API and webhook events.

@@ -16,13 +16,13 @@ published: 1
 
 Typically, it takes a few seconds to configure the database user. Once it's complete, click on **View Credential**.
 
-![Screenshot 2025-01-31 at 1.15.44 PM](/files/Screenshot 2025-01-31 at 1.15.44 PM.png "Screenshot 2025-01-31 at 1.15.44 PM.png")
+![Screenshot 2025-01-31 at 1.15.44 PM](../files/Screenshot 2025-01-31 at 1.15.44 PM.png "Screenshot 2025-01-31 at 1.15.44 PM.png")
 2. Go to Looker Studio and click on **Create New Data Source** !
 
-![Screenshot 2025-01-31 at 1.39.14 PM](/files/Screenshot 2025-01-31 at 1.39.14 PM.png "Screenshot 2025-01-31 at 1.39.14 PM.png")
+![Screenshot 2025-01-31 at 1.39.14 PM](../files/Screenshot 2025-01-31 at 1.39.14 PM.png "Screenshot 2025-01-31 at 1.39.14 PM.png")
 3. Search for **mysql** in connector list and choose the connector from Google.
 
-![Screenshot 2025-01-31 at 1.40.34 PM](/files/Screenshot 2025-01-31 at 1.40.34 PM.png "Screenshot 2025-01-31 at 1.40.34 PM.png")
+![Screenshot 2025-01-31 at 1.40.34 PM](../files/Screenshot 2025-01-31 at 1.40.34 PM.png "Screenshot 2025-01-31 at 1.40.34 PM.png")
 4. Fill up the database user's info and click on **Authenticate**. 
 
   
@@ -33,11 +33,11 @@ Typically, it takes a few seconds to configure the database user. Once it's comp
   
 
 
-![Screenshot 2025-01-31 at 1.45.07 PM](/files/Screenshot 2025-01-31 at 1.45.07 PM.png "Screenshot 2025-01-31 at 1.45.07 PM.png")
+![Screenshot 2025-01-31 at 1.45.07 PM](../files/Screenshot 2025-01-31 at 1.45.07 PM.png "Screenshot 2025-01-31 at 1.45.07 PM.png")
 5. Choose the required table and click on **Connect**.
 6. After that, you can see the details of the table and create required reports. 
 
-![Screenshot 2025-01-31 at 1.59.10 PM](/files/Screenshot 2025-01-31 at 1.59.10 PM.png "Screenshot 2025-01-31 at 1.59.10 PM.png")
+![Screenshot 2025-01-31 at 1.59.10 PM](../files/Screenshot 2025-01-31 at 1.59.10 PM.png "Screenshot 2025-01-31 at 1.59.10 PM.png")
 7. Check Looker Studio [office documentation](https://cloud.google.com/looker/docs/intro) to get guidance on creating dashboards and reports.
 
   
