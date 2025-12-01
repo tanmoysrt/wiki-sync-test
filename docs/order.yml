@@ -1,0 +1,144 @@
+- Getting Started:
+  - Introduction
+- FAQ:
+  - Simplified Login to Frappe Cloud Dashboard
+  - General
+  - Frappe Cloud Infra Architecture
+  - Notices
+  - SOC 2 (Systems and Organization Controls) Report
+  - FAQ - Site
+  - MariaDB slow queries in your site
+  - Recent Issues
+  - Custom Frappe Framework Fork
+  - Support
+  - Installing App APT Dependencies
+  - Billing
+  - Tiny Plan ($5 / month)
+  - Custom Apps
+  - App Installation Issue
+  - Two-factor authentication (2FA)
+- Site:
+  - Move site across server
+  - Drop/Delete your site
+  - Backups
+  - Change a site plan
+  - Enable Server Script
+  - Creating a new site
+  - Installing an app
+  - Upgrade the Email Delivery Service plan for more emails
+  - Site Config
+  - Update an app/site on a private bench
+  - Activity
+  - Change Team of Site
+  - Public Bench Update Schedule
+  - Jobs
+  - Migrate an existing site
+  - Move site across region
+  - Uninstall an app from the site
+  - DB Performance Tuning
+  - Delete Site
+  - Move site to private bench group
+  - Database Users And Permission Manager
+  - Version Upgrade
+  - Disable auto-update for your site
+  - Monitoring
+  - Custom Domains
+  - Obtain a Static IP
+- Private Benches:
+  - Bench Config
+  - Private Bench Groups
+  - Debugging
+  - App Patches
+  - Logs
+  - In Place Updates
+  - SSH Access
+  - What are Benches and Bench Groups?
+  - Updating a Bench
+  - How to install a custom app
+  - Creating a new bench group
+  - Editing Bench Dependency Version
+  - Process Status
+  - Change Team of Bench Group
+- Servers:
+  - Creating new server
+  - Change plan
+  - Database Server Actions
+  - Server Storage Breakdown
+  - Storage Addons
+  - Introduction
+  - Frappe Cloud Hybrid
+  - Change ownership of Server
+  - Creating new Bench
+  - Guidelines for choosing a server plan
+  - Delete Servers
+  - Control resources allocated for site
+- Hybrid Cloud:
+  - Creating New Self Hosted Servers/Hybrid Cloud
+  - Folder Structure
+  - Introduction
+  - Self Hosted Server/Hybrid Cloud Architecture
+- Billing:
+  - Disable Account / Cancel Subscription
+  - Plans
+  - Account Deletion
+  - Bill Payments
+  - Billing Cycle
+  - Payment Options
+- Marketplace:
+  - Guidelines for Contributing Regional Localisation
+  - Guidelines for publishing an app
+  - Publishing an App to Marketplace
+  - App Pricing
+  - Frappe Cloud Marketplace Overview
+  - Payouts
+  - App authoring guidelines
+- Team:
+  - Switching between Teams
+  - Role Permissions
+  - Managing Team Members
+- API:
+  - Sites
+  - Create an Access Token
+  - Authentication
+  - Introduction
+  - Billing
+- Webhook:
+  - Webhook Events
+  - Webhook Implementation
+  - Introduction
+  - Webhook Attempt Logs
+- Dev Tools:
+  - Log Browser
+  - Database Analyzer
+  - Site Process List
+- Support Handbook:
+  - Support Ops
+  - How Bench Deploy works?
+  - Support Bench
+  - Support Team
+  - Support Site
+  - Bench Group Update
+- Common Issues:
+  - Can't connect to MySQL server
+  - Incompatible dependency version
+  - Invalid pyproject.toml file
+  - Required app not found
+  - Build might fail
+  - Incompatible app version
+  - Incompatible Node version
+  - Vite not found
+  - Debugging app installs locally
+  - OOM Issues
+  - Unknown command -
+- Connect External Tool:
+  - Connect Power BI Desktop
+  - Connect Metabase
+  - Connect Apache Superset
+  - Connect Frappe Insights
+  - Connect Zoho Analytics
+  - Connect Looker Studio
+- Guides and Manuals:
+  - Local Development Environment Setup
+- FC Handbook:
+  - Frappe Cloud Handbook
+  - FC Onboarding Manual
